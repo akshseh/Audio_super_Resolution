@@ -1,6 +1,7 @@
 # Audio Super Resolution
 ## Algorithms used
 - Generative Adversarial Networks
+- Autoencoders
 - Long Short Term Memory
 - Hidden Markov Model
 
